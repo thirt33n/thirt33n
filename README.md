@@ -1,12 +1,7 @@
 
-                                                            Hello There, My name is Siddharth Pradeep 
+                                                            #Hello There, My name is Siddharth Pradeep 
                                                           
-
-
-
-I’m interested in learning and working in new development projects
-I’m currently learning back-end web development 
-I’m looking to collaborate on web design and front-end projects
+I am a  computer enthusiast trying to learn and understand everything about computers, for know I am learning full-stack Web and App development
 
 
 
