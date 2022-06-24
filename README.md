@@ -18,7 +18,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Siddharth-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-pradeep-320b401b7/)
 [![Mail Badge](https://img.shields.io/badge/-Siddharth-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=black)](mailto:siddharthpradeep4602@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-@_sid_was_here_-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/_sid_was_here_/)
+
 
 
 
