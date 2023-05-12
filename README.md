@@ -48,4 +48,4 @@
       src="https://github-profile-trophy.vercel.app/?username=thirt33n&theme=radical" alt="thirt33n" /></a> </p>
 </span>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=thirt33n.thirt33n)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=http%3A%2F%2Fgithub.com%2Fthirt33n&label=Visitor&labelColor=%23d9e3f0&countColor=%23263759&style=flat)
