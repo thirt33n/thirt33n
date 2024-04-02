@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning full stack  Web Development and app development using react native
+- 🌱 I’m currently learning Rust
 
 - ⚡ Fun fact :- Brushing your teeth is the only time you clean your skeleton.:skull:
 
